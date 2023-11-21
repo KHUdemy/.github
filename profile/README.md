@@ -20,3 +20,26 @@
 
 * Frontend: `React`
 
+<br>
+
+## 시연
+
+### 메인 페이지
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 007png" src="https://github.com/KHUdemy/.github/assets/30232837/fd6c7d5e-2b64-42e9-a3b9-afdeba08fb9e">
+
+### 칸반 보드
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 002png" src="https://github.com/KHUdemy/.github/assets/30232837/41ab4006-ca5e-4221-9ac0-b558bd44401d">
+
+### 기본 템플릿
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 003png" src="https://github.com/KHUdemy/.github/assets/30232837/bbd0f2ba-3940-49b5-95c6-c9b10f1477ee">
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 004png" src="https://github.com/KHUdemy/.github/assets/30232837/6a2bd608-610c-4ab0-bd1d-6d44da193653">
+
+### 이미지 퀴즈
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 001png" src="https://github.com/KHUdemy/.github/assets/30232837/aafbe9dd-8ff0-4d1b-9357-b929fea782ab">
+
+<img width="1728" alt="KakaoTalk_Photo_2023-11-21-15-26-27 005png" src="https://github.com/KHUdemy/.github/assets/30232837/ab171249-adf4-4bc7-9edc-12b145ed2444">
