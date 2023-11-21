@@ -1,10 +1,10 @@
-## 주제
+## 📖 주제
 
 * **KHUdemy**: 생성형 AI를 이용한 자동화 교육 미디어
 
 <br>
 
-## 소개
+## 🌼 소개
 
 * "KHUDemy"는 **AI 기반 학습 플랫폼**으로, 영상을 활용한 효과적인 학습을 지원합니다.
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 기술
+## 🛰️ 기술
 
 * AI: `DALL-E 3`, `GPT-4`
 
@@ -28,19 +28,19 @@
 
 <br>
 
-## 메인 페이지
+## 🕐 메인 페이지
 
 <img width="1000" alt="KakaoTalk_Photo_2023-11-21-15-26-27 007png" src="https://github.com/KHUdemy/.github/assets/30232837/fd6c7d5e-2b64-42e9-a3b9-afdeba08fb9e">
 
 <br><br>
 
-## 칸반 보드
+## 🕑 칸반 보드
 
 <img width="1000" alt="KakaoTalk_Photo_2023-11-21-15-26-27 002png" src="https://github.com/KHUdemy/.github/assets/30232837/41ab4006-ca5e-4221-9ac0-b558bd44401d">
 
 <br><br>
 
-## 기본 템플릿
+## 🕒 기본 템플릿
 
 <img width="1000" alt="KakaoTalk_Photo_2023-11-21-15-26-27 003png" src="https://github.com/KHUdemy/.github/assets/30232837/bbd0f2ba-3940-49b5-95c6-c9b10f1477ee">
 
@@ -48,7 +48,7 @@
 
 <br><br>
 
-## 영상 및 이미지 퀴즈
+## 🕓 영상 및 이미지 퀴즈
 
 <img width="1000" alt="KakaoTalk_Photo_2023-11-21-15-26-27 001png" src="https://github.com/KHUdemy/.github/assets/30232837/aafbe9dd-8ff0-4d1b-9357-b929fea782ab">
 
